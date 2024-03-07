@@ -1,0 +1,149 @@
+body
+{
+    text-align:center;
+    background-size: 500px;
+    font-family: "Dosis", sans-serif;
+}
+
+.my_nav_bar
+{
+    overflow: hidden;
+    position:fixed;
+    top:0px;
+    margin-top:0px;
+    /* z-index:99999; */
+    /* z-index:10; */
+    /* cursor:pointer; */
+    width:100%;
+}
+
+.menu
+{
+    position:fixed;
+    top:0px;
+    z-index:10;
+    cursor:pointer;
+    width:100%;
+    margin-top:10px;
+}
+
+.links
+{
+    font-size:20px;
+    font-family:fantasy;       
+    padding-right:25px;
+    padding-left:33px;
+    display:inline;
+    width:100%;
+    height:800px;
+}
+
+#homeline 
+{
+    height: 6px;
+    background-color:white;
+    width: 750px;
+    margin: 8px auto;
+}
+
+.line
+{
+    height: 2px;
+    background-color:white;
+    width: 1100px;
+    margin: 8px auto;
+}
+
+#home_section
+{
+    color:beige;
+}
+
+#exoplanet
+{
+    width:800px;
+}
+
+#facts_section
+{
+    color:peachpuff;
+}
+
+#exoplanet2
+{
+    width:300px;
+}
+
+#info
+{
+    margin-left:80px;
+    margin-right:80px;
+    text-align:left;
+}
+
+#types_section
+{
+    color:beige;
+}
+
+#detection_section
+{
+    color:peachpuff;
+}
+
+#five
+{
+    text-align:left;
+    margin-left:575px;
+}
+
+.text
+{
+    padding-left:20px;
+}
+
+.container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#typeinfo
+{
+    margin-left:10px;
+    margin-right:10px;
+    text-align:left;
+}
+
+#naming_section
+{
+    color:beige;
+}
+
+#exoplanet3
+{
+    width:350px;
+}
+
+#discoveries_section
+{
+    color:peachpuff;
+}
+
+#source_section
+{
+    color:beige;
+}
+
+#sources
+{
+    text-align:left;
+    margin-left:100px;
+    margin-right:300px;
+}
+
+#bigline
+{
+    height:10px;
+}
